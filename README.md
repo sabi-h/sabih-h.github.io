@@ -5,4 +5,4 @@ Software Engineer based in London, specializing in backend and Data Engineering.
 
 ### Projects
 
-1. [QR Code Encoder](https://sabih-h.github.io/qrcode/): Python library implementing QR Code encoding with emphasis on readability.
+1. [QR Code Encoder](https://sabih-h.github.io/qpyr/): Python library implementing QR Code encoding with emphasis on readability.
